@@ -1,7 +1,8 @@
 # Hex-Raycast-Lib
 
 This library is used for finding the hexagonal tiles that a ray passes through on a pointy-top axial hexagonal grid.
-<img width="854" height="854" alt="RaycastDemo" src="https://github.com/user-attachments/assets/7bdfde11-c585-437b-ac39-4c4b25abaa59" />
+<img width="400" height="400" alt="SquareDemo" src="https://github.com/user-attachments/assets/f7e2b64a-7564-4c45-bbda-1068f101c43f" />
+
 
 It also includes utilities for converting from cartesian coordinates to axial q,r coordinates.
 This library includes drawing features compatable only with LOVE2D 
