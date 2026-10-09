@@ -6,16 +6,13 @@ It also includes utilities for converting from cartesian coordinates to axial q,
 This library includes drawing features compatable only with LOVE2D 
 
 
-The meaning of size = 1.
+When implementing raycasting, it is important to adjust the size of the grid, defined in raycast.lua as "size".
 
-
-
-How to use the module.
-
+How to call hex.raycast()
 
 
 Function descriptions and argument order.
-
+args
 
 
 How raycast returns its seen[q][r] table.
